@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-labelledby="title">
-  <title id="title">Chingangbam Deepak Angom, ML / AI engineer: LLM infrastructure and UK grid forecasting</title>
+  <title id="title">Chingangbam Deepak Angom, data and AI engineer: analytics, LLM systems and MLOps</title>
   <style>
     .sans { font-family: "Segoe UI", -apple-system, Helvetica, Arial, sans-serif; }
     .mono { font-family: Consolas, "SFMono-Regular", Menlo, "Courier New", monospace; }
@@ -68,15 +68,15 @@
     <!-- Text -->
     <text class="mono" x="290" y="84" font-size="14" fill="#8AA0BD" letter-spacing="3">HELLO, I'M</text>
     <text class="sans" x="288" y="126" font-size="38" font-weight="700" fill="#E6EDF7">Chingangbam Deepak Angom</text>
-    <text class="sans" x="290" y="160" font-size="18" fill="#9FB3CF">ML / AI Engineer · MSc Artificial Intelligence, University of Aberdeen</text>
+    <text class="sans" x="290" y="160" font-size="18" fill="#9FB3CF">Data &amp; AI · MSc Artificial Intelligence, University of Aberdeen</text>
 
     <text class="mono" x="290" y="207" font-size="18" fill="#34D399">›
       <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
     </text>
     <g class="mono" font-size="18" fill="#38BDF8">
-      <text x="312" y="207" clip-path="url(#type1)">shipping Aegis: an LLM gateway (auth · limits · screening)</text>
-      <text x="312" y="207" clip-path="url(#type2)">forecasting GB grid carbon intensity with GridPulse</text>
-      <text x="312" y="207" clip-path="url(#type3)">open to ML / AI engineer roles in the UK</text>
+      <text x="312" y="207" clip-path="url(#type1)">shipped Aegis v1.0: an LLM gateway with guardrails and caching</text>
+      <text x="312" y="207" clip-path="url(#type2)">analysing NHS prescribing data: dbt · DuckDB · Power BI</text>
+      <text x="312" y="207" clip-path="url(#type3)">open to Data Analyst and junior ML / AI roles in the UK</text>
     </g>
   </g>
 </svg>
